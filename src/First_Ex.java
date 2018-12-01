@@ -16,6 +16,7 @@ public class First_Ex {
 		do{System.out.println("mkk");
 		k++;
 		}while(k<4);
+		System.out.println("git test");
 
 
 	}
